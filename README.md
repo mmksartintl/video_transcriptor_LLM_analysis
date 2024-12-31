@@ -36,6 +36,8 @@ libpostproc    56.  6.100 / 56.  6.100
 4) streamlit run main2.py
 
 
-NOTICE: main2_with_audio.py is a version that captures text input and outputs as audio using gtts ((Google Text-to-Speech)
+NOTICE: 
 
-Other python scripts are used to test functionalities until final version. 
+- main2_with_audio.py is a version that captures text input and outputs as audio using gtts ((Google Text-to-Speech)
+
+- Other python scripts are used to test functionalities until final version. 
