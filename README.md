@@ -9,6 +9,7 @@ Implements:
 Steps:
 
 1) run a docker image
+
    $ docker container run -d -p 8501:8501 -v $(pwd)/videorepo:/videollm/videorepo --name videollm python:3.10 sleep infinity
 
 2) install ffmpeg
